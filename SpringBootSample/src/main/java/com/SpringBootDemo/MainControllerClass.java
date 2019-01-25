@@ -8,6 +8,6 @@ public class MainControllerClass {
 	@RequestMapping("home")
 	public String hello(){
 		System.out.println("hello");
-		return "index.jsp";
+		return "index";
 	}
 }

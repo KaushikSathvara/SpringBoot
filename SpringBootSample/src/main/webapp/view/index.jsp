@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-This is ${name}
+This is ${alien.a_id},${alien.a_name},${alien.lang}
 
 </body>
 </html>
